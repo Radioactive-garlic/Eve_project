@@ -236,14 +236,14 @@ Material:
     - _GIFlatShade: 0
     - _GIShadeThreshold: 0
     - _GlossColorPower: 10
-    - _GlossIntensity: 0.103
+    - _GlossIntensity: 0.203
     - _GlossMapScale: 0
-    - _GlossSoftness: 0.706
+    - _GlossSoftness: 1
     - _GlossTextureFollowLight: 0
     - _GlossTextureFollowObjectRotation: 0
     - _GlossTextureRotate: 0
     - _GlossTextureSoftness: 0
-    - _Glossiness: 0.201
+    - _Glossiness: 0.249
     - _GlossyReflections: 0
     - _Glow_Edge_Width: 1
     - _HighlightColorPower: 1
@@ -335,11 +335,11 @@ Material:
     - _RefMetallic: 0
     - _RefVal: 0
     - _ReflectionIntensity: 0
-    - _RimLigInt: 0.037
+    - _RimLigInt: 0.138
     - _RimLightColorPower: 10
     - _RimLightInLight: 1
-    - _RimLightSoftness: 0
-    - _RimLightUnfill: 2.02
+    - _RimLightSoftness: 0.5
+    - _RimLightUnfill: 3
     - _RimOutput: 0.631
     - _SPECIN: 1
     - _SPECMODE: 0
@@ -411,7 +411,7 @@ Material:
     - _PTCol: {r: 0, g: 0, b: 0, a: 1}
     - _PrevPosition: {r: 0, g: 0, b: 0, a: 0}
     - _RimColor: {r: 1, g: 0.6650944, b: 0.73427665, a: 1}
-    - _RimLightColor: {r: 0.5525606, g: 0, b: 0.030695325, a: 1}
+    - _RimLightColor: {r: 0.96226406, g: 0.1283883, b: 0.30872384, a: 1}
     - _SSAOColor: {r: 0, g: 0, b: 0, a: 0}
     - _SelfLitColor: {r: 1, g: 1, b: 1, a: 1}
     - _SelfShadowRealTimeShadowColor: {r: 1, g: 1, b: 1, a: 1}

@@ -29,6 +29,7 @@ Material:
   - N_F_EAL_ON
   - N_F_RDC_ON
   - N_F_RELGI_ON
+  - N_F_RL_ON
   - N_F_SL_ON
   - N_F_SON_ON
   - N_F_SS_ON
@@ -291,7 +292,7 @@ Material:
     - _N_F_PT: 0
     - _N_F_R: 0
     - _N_F_RDC: 1
-    - _N_F_RL: 0
+    - _N_F_RL: 1
     - _N_F_SCO: 0
     - _N_F_SCT: 0
     - _N_F_SE: 0
@@ -334,11 +335,11 @@ Material:
     - _RefMetallic: 0
     - _RefVal: 0
     - _ReflectionIntensity: 0
-    - _RimLigInt: 1
-    - _RimLightColorPower: 10
+    - _RimLigInt: 0.2
+    - _RimLightColorPower: 5.18
     - _RimLightInLight: 1
-    - _RimLightSoftness: 1
-    - _RimLightUnfill: 1.5
+    - _RimLightSoftness: 0.5
+    - _RimLightUnfill: 3
     - _RimOutput: 0.729
     - _SPECIN: 1
     - _SPECMODE: 0
@@ -346,8 +347,8 @@ Material:
     - _SampleGI: 0
     - _Saturation: 1
     - _SelfLitHighContrast: 1
-    - _SelfLitIntensity: 0.404
-    - _SelfLitPower: 7.31
+    - _SelfLitIntensity: 0.3
+    - _SelfLitPower: 20
     - _SelfShadowAffectedByLightShadowStrength: 0
     - _SelfShadowHardness: 0.907
     - _SelfShadowRealTimeShadowColorPower: 1
