@@ -362,8 +362,8 @@ Material:
     - _SampleGI: 0
     - _Saturation: 1
     - _SelfLitHighContrast: 1
-    - _SelfLitIntensity: 0.765
-    - _SelfLitPower: 20
+    - _SelfLitIntensity: 1
+    - _SelfLitPower: 100
     - _SelfShadowAffectedByLightShadowStrength: 0
     - _SelfShadowHardness: 0.907
     - _SelfShadowRealTimeShadowColorPower: 1
