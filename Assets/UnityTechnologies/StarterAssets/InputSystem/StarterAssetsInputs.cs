@@ -39,10 +39,10 @@ namespace StarterAssets
 		{
 			JumpInput(value.isPressed);
 		}
-        /*public void OnCrouch(InputValue value)
+        public void OnCrouch(InputValue value)
         {
          CrouchInput(value.isPressed);
-         }*/
+         }
         
         public void OnSprint(InputValue value)
 		{
@@ -50,10 +50,10 @@ namespace StarterAssets
 		}
 #endif
 
-        /*public void CrouchInput(Vector2 newMoveDirection)
+        public void CrouchInput(bool newCrouchState)
         {
-            move = newMoveDirection;
-        }*/
+            crouch = newCrouchState;
+        }
 
         public void MoveInput(Vector2 newMoveDirection)
 		{
